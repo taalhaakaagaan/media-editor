@@ -1,0 +1,8 @@
+moviepy>=1.0.3
+imageio-ffmpeg>=0.4.9
+# Uncomment if you plan to use yt-upload right away
+# google-api-python-client>=2.0.0
+# google-auth>=2.0.0
+# google-auth-oauthlib>=1.0.0
+# Declarative pipelines support YAML once this is installed
+# pyyaml>=6.0
